@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?cyjtg8');
+  src:  url('fonts/icomoon.eot?cyjtg8#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?cyjtg8') format('truetype'),
+    url('fonts/icomoon.woff?cyjtg8') format('woff'),
+    url('fonts/icomoon.svg?cyjtg8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-inicio:before {
+  content: "\e902";
+}
+.icon-perfil:before {
+  content: "\e923";
+}
+.icon-fichero-abierto:before {
+  content: "\e930";
+}
+.icon-telefono:before {
+  content: "\e942";
+}
+.icon-agenda:before {
+  content: "\e944";
+}
+.icon-localizacion:before {
+  content: "\e947";
+}
+.icon-pantalla:before {
+  content: "\e956";
+}
+.icon-base-de-datos:before {
+  content: "\e964";
+}
+.icon-usuario-persona:before {
+  content: "\e971";
+}
+.icon-usuario-corbata:before {
+  content: "\e976";
+}
+.icon-cohete-proyectos:before {
+  content: "\e9a5";
+}
+.icon-click-planilla:before {
+  content: "\e9b8";
+}
+.icon-menu:before {
+  content: "\e9bd";
+}
+.icon-esfera-redes:before {
+  content: "\e9c9";
+}
+.icon-link:before {
+  content: "\e9cb";
+}
+.icon-embed:before {
+  content: "\ea7f";
+}
+.icon-embed2:before {
+  content: "\ea80";
+}
+.icon-terminal:before {
+  content: "\ea81";
+}
+.icon-g-mail:before {
+  content: "\ea86";
+}
+.icon-facebook:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-youtube:before {
+  content: "\ea9e";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-windows:before {
+  content: "\eac2";
+}
+.icon-linkedin:before {
+  content: "\eac9";
+}
+.icon-linkedin2:before {
+  content: "\eaca";
+}
+.icon-stackoverflow:before {
+  content: "\ead0";
+}
+.icon-chrome:before {
+  content: "\ead9";
+}
+.icon-html1:before {
+  content: "\eae4";
+}
+.icon-html2:before {
+  content: "\eae5";
+}
